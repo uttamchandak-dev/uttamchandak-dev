@@ -50,5 +50,4 @@ Payments:    Stripe (Elements & Webhooks) · Mobile Money · Digital Wallets · 
 I actively partner with businesses, founders, and startups on **fixed-scope builds, MVP development, and ongoing contracts (20–35 hrs/week)**.
 
 * 📧 **Direct Email:** [uttamchandak5@gmail.com](mailto:uttamchandak5@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/uttamchandak](https://linkedin.com/in/uttamchandak)
 * ⚡ **Turnaround:** Initial response within 24 hours
