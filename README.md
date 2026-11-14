@@ -5,7 +5,6 @@ I build fast, responsive, and scalable web applications for businesses, startups
 
 [![Status](https://img.shields.io/badge/Status-Available%20for%20Freelance%20%26%20Contracts-22c55e?style=for-the-badge&logo=codefactor&logoColor=white)]()
 [![Email](https://img.shields.io/badge/Email-uttamchandak5%40gmail.com-0284c7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uttamchandak5@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Uttam%20Chandak-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uttamchandak)
 [![Location](https://img.shields.io/badge/Location-Nagpur%2C%20India%20(Remote%20Worldwide)-64748b?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
 ---
